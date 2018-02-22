@@ -118,7 +118,7 @@ void recursionInfinite(int counter) {
     }
 }
 
-int main() { // OLD OLD OLD
+int main() { // NEW NEW NEW
 
     //ifSingleEquality();
     //ternaryOperator();
